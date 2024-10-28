@@ -7,3 +7,7 @@ st.subheader("One", divider=True)
 st.subheader("Two", divider=True)
 st.subheader("Three", divider=True)
 st.subheader("Four", divider=True)
+
+
+st.text_input('Nombre')
+st.number_input(Edad, 0,30)
