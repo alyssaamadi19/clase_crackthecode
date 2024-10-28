@@ -10,4 +10,4 @@ st.subheader("Four", divider=True)
 
 
 st.text_input('Nombre')
-st.number_input(Edad, 0,30)
+st.number_input('Edad', 0,30)
